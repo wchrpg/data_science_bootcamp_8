@@ -15,3 +15,5 @@ I learn a lot of stuff related to data science skills. This bootcamp has 10 spri
 - Essential Machine Learning for Data Analyst
 - Python Programming
 - Dashboard
+
+You can find me on Linkedin here https://www.linkedin.com/in/wchrpg/
